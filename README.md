@@ -97,12 +97,10 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 # Option A: Clone with Git
-git clone https://github.com/yourusername/conflicting-policy-rag.git
-cd conflicting-policy-rag
+git clone https://github.com/ayushgoyal004/HR-policy_RAG_Pipeline.git
 
 # Option B: Download ZIP
-# Download and extract the ZIP file, then navigate to the folder
-cd conflicting-policy-rag
+# Download and extract the ZIP file
 ```
 
 ### Step 2: Create Virtual Environment
